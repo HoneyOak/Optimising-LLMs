@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What was the PV industry\u2019s total sales and growth rate in FY\u201925?",
+    "answer": "Over 4.3 million units with 2.5% YoY growth.",
+    "context": "The PV industry clocked a sale of over 4.3 million units in FY\u201925, a growth of 2.5% over the previous year."
+  },
+  {
+    "question": "What share did SUVs account for in the Indian PV industry in FY\u201925?",
+    "answer": "About 55%.",
+    "context": "SUV share surged further reaching about 55% of total sales in FY\u201925."
+  },
+  {
+    "question": "What was the hatchback segment\u2019s share in FY\u201925 and in FY\u201919?",
+    "answer": "23.5% in FY\u201925 vs 46% in FY\u201919.",
+    "context": "The share of hatchbacks reduced to 23.5% in FY\u201925 from 46% in FY\u201919."
+  },
+  {
+    "question": "What were the shares of CNG, diesel, hybrid, and EV in FY\u201925?",
+    "answer": "CNG ~18\u201319%, diesel ~18\u201319%, hybrids 2.4%, EVs 2.7%.",
+    "context": "In FY\u201925, CNG and diesel were ~18\u201319% each; hybrids 2.4%; EVs 2.7%."
+  },
+  {
+    "question": "What production milestone did Maruti Suzuki reach in FY\u201925?",
+    "answer": "2 million units produced.",
+    "context": "We achieved a historic production milestone of 2 million units in FY\u201925."
+  },
+  {
+    "question": "What were Maruti Suzuki\u2019s FY\u201925 total sales and exports?",
+    "answer": "2.23 million total, 0.332 million exports.",
+    "context": "The Company recorded 2.23 million sales including exports of 3.32 lakh vehicles."
+  },
+  {
+    "question": "What number of top 10 industry models in FY\u201925 belonged to Maruti Suzuki?",
+    "answer": "Seven.",
+    "context": "7 out of the top 10 models in the industry were from Maruti Suzuki."
+  },
+  {
+    "question": "Which two models were launched in FY\u201925 by Maruti Suzuki?",
+    "answer": "4th gen Swift and all-new Dzire.",
+    "context": "In FY\u201925 the Company launched 4th gen Swift and the all-new Dzire."
+  },
+  {
+    "question": "How many models will be launched in FY\u201926 and name one?",
+    "answer": "Two, including e VITARA.",
+    "context": "In FY\u201926 we plan to launch two models, including e VITARA."
+  },
+  {
+    "question": "What was the solar capacity in FY\u201925 and FY\u201924?",
+    "answer": "78.2 MWp vs 43.2 MWp.",
+    "context": "Solar capacity increased to 78.2 MWp in FY\u201925 from 43.2 MWp in FY\u201924."
+  },
+  {
+    "question": "How many vehicles were dispatched through rail in FY\u201925 and what was the share?",
+    "answer": "Over 500,000; 24.3% share.",
+    "context": "Over 500,000 vehicles via rail; rail share 24.3% in FY\u201925."
+  },
+  {
+    "question": "What were Q4 FY\u201925 total, domestic, and export sales?",
+    "answer": "604,635 total; 519,546 domestic; 85,089 exports.",
+    "context": "In Q4 FY\u201925 total sales were 604,635; domestic 519,546; exports 85,089."
+  },
+  {
+    "question": "What were net sales in Q4 FY\u201925 vs Q4 FY\u201924?",
+    "answer": "\u20b9388 bn vs \u20b9367 bn.",
+    "context": "Net sales were about \u20b9388b vs \u20b9367b a year ago."
+  },
+  {
+    "question": "What was PAT in Q4 FY\u201925 vs Q4 FY\u201924?",
+    "answer": "\u20b937.1b vs \u20b938.7b.",
+    "context": "Net profit was \u20b937.1b vs \u20b938.7b last year."
+  },
+  {
+    "question": "How did EBIT margin change sequentially in Q4 FY\u201925?",
+    "answer": "Down to 8.7% from 10%.",
+    "context": "EBIT margin declined to 8.7% from 10% sequentially."
+  },
+  {
+    "question": "What was the margin impact of Kharkhoda start-up in Q4 FY\u201925?",
+    "answer": "~30 bps.",
+    "context": "The Kharkhoda plant overheads impacted margins by ~30 bps."
+  },
+  {
+    "question": "Which commodity raised costs by 20 bps in Q4 FY\u201925?",
+    "answer": "Steel.",
+    "context": "Commodities, largely steel, were adverse by about 20 bps."
+  },
+  {
+    "question": "What was the adverse mix impact on Q4 FY\u201925 margins?",
+    "answer": "~40 bps.",
+    "context": "The product mix was adverse by ~40 bps."
+  },
+  {
+    "question": "How much did higher ads cost margins in Q4 FY\u201925?",
+    "answer": "~30 bps.",
+    "context": "Advertising expenses were higher by ~30 bps."
+  },
+  {
+    "question": "What was the adverse impact of other expenses in Q4 FY\u201925?",
+    "answer": "~90 bps.",
+    "context": "Other expenses were adverse by ~90 bps due to lumpiness and seasonality."
+  },
+  {
+    "question": "Which factors partially offset margin headwinds in Q4 FY\u201925 and by how much?",
+    "answer": "Lower commodities 40 bps; operating leverage 30 bps.",
+    "context": "Lower commodity prices (~40 bps) and operating leverage (~30 bps) offset headwinds."
+  },
+  {
+    "question": "When did Kharkhoda Phase-I start and what is its capacity?",
+    "answer": "March 2025; 250,000 units.",
+    "context": "Kharkhoda Phase-I began in March 2025 with 250,000 units capacity."
+  },
+  {
+    "question": "What were Q3 FY\u201925 total sales and exports?",
+    "answer": "566,213 total; 99,220 exports.",
+    "context": "Q3 FY\u201925 sales: 566,213; exports 99,220 (highest ever)."
+  },
+  {
+    "question": "What were Q3 FY\u201925 net sales and PAT?",
+    "answer": "\u20b9368 bn and \u20b935.25 bn.",
+    "context": "Net sales about \u20b9368b; PAT \u20b935.25b in Q3 FY\u201925."
+  },
+  {
+    "question": "What export share did MSIL hold in Q3 FY\u201925?",
+    "answer": "~49%.",
+    "context": "Nearly one in every two cars exported was from Maruti Suzuki (~49% share)."
+  },
+  {
+    "question": "What was the network stock at end-Q3 FY\u201925?",
+    "answer": "~9 days.",
+    "context": "The Company ended Q3 FY\u201925 with ~9 days of network stock."
+  },
+  {
+    "question": "What was Q2 FY\u201925 PBT, PAT and tax provision?",
+    "answer": "PBT \u20b951,005m; PAT \u20b930,692m; provision \u20b98,376m.",
+    "context": "PBT grew 6.3% to \u20b951,005m; PAT fell to \u20b930,692m due to \u20b98,376m provision."
+  },
+  {
+    "question": "What export share did MSIL command in Q2 and H1 FY\u201925?",
+    "answer": "~40%.",
+    "context": "The Company commanded nearly 40% export share in Q2 and H1 FY\u201925."
+  },
+  {
+    "question": "How many vehicles were sold in Q2 FY\u201925 and what was domestic vs export?",
+    "answer": "541,550 total; 463,834 domestic; 77,716 exports.",
+    "context": "Q2 FY\u201925: 541,550 total; 463,834 domestic; 77,716 exports."
+  },
+  {
+    "question": "What net sales did MSIL report in Q2 FY\u201925?",
+    "answer": "\u20b9355,891 million.",
+    "context": "Net sales in Q2 FY\u201925 were \u20b9355,891 million."
+  },
+  {
+    "question": "What were Q3 FY\u201924 total sales and exports?",
+    "answer": "501,207 total; 71,785 exports.",
+    "context": "Q3 FY\u201924: 501,207 total; 71,785 exports."
+  },
+  {
+    "question": "What was Q3 FY\u201924 PAT and YoY growth?",
+    "answer": "\u20b931,300m; >33% YoY.",
+    "context": "PAT rose to \u20b931,300m, >33% YoY."
+  },
+  {
+    "question": "What discounts per vehicle were reported Q3 vs Q2 FY\u201924?",
+    "answer": "\u20b923,300 vs \u20b917,700.",
+    "context": "Discounts: \u20b923,300 (Q3) vs \u20b917,700 (Q2)."
+  },
+  {
+    "question": "What pending bookings were cited at end-Q3 FY\u201924?",
+    "answer": "~215,000 vehicles.",
+    "context": "Pending bookings ~215,000 at end-Q3 FY\u201924."
+  },
+  {
+    "question": "What was the royalty rate in Q3 FY\u201924?",
+    "answer": "3.5%.",
+    "context": "Royalty stood at 3.5%, 30 bps lower sequentially."
+  },
+  {
+    "question": "What CNG sales and share were reported in Q3 FY\u201924?",
+    "answer": ">127,000 units; ~30% share.",
+    "context": "CNG sales over 127,000 units; ~30% of sales."
+  },
+  {
+    "question": "How many vehicles were dispatched by rail in 2023 and the share?",
+    "answer": "422,000; >20%.",
+    "context": "Record 422,000 vehicles via rail; share over 20%."
+  },
+  {
+    "question": "What solar capacity increase was planned for next FY (Jan 2024)?",
+    "answer": "To over 48 MWp.",
+    "context": "Planning to increase solar capacity to over 48 MWp."
+  },
+  {
+    "question": "When was Kharkhoda\u2019s first 250k line planned to be operational (Jan 2024)?",
+    "answer": "2025.",
+    "context": "First 250k line to be operational in 2025."
+  },
+  {
+    "question": "What vote % approved SMG acquisition and what margin effect occurred?",
+    "answer": ">98%; EBITDA up, EBIT similar.",
+    "context": ">98% votes; EBITDA margin adjusted up, EBIT similar."
+  },
+  {
+    "question": "What were FY23-24 total sales and exports?",
+    "answer": "2,135,323 total; 283,067 exports.",
+    "context": "FY23-24: 2,135,323 total; 283,067 exports."
+  },
+  {
+    "question": "What share of green vehicles did MSIL report in FY23-24?",
+    "answer": "42%.",
+    "context": "Green vehicles accounted for 42% of sales."
+  },
+  {
+    "question": "What captive solar capacity did MSIL reach in FY23-24 and target for FY24-25?",
+    "answer": "43.2 MWp; 48.15 MWp target.",
+    "context": "Solar capacity 43.2 MWp; target 48.15 MWp."
+  },
+  {
+    "question": "How many vehicles were dispatched by rail in FY23-24 and penetration YoY?",
+    "answer": "447,750; 21.5% vs 17.6%.",
+    "context": "447,750 rail dispatches; penetration 21.5% vs 17.6%."
+  },
+  {
+    "question": "What was Q4 FY23-24 total vehicles and YoY growth?",
+    "answer": "584,031; 13.4% YoY.",
+    "context": "Q4 FY23-24: 584,031 vehicles, 13.4% growth."
+  },
+  {
+    "question": "What were Q4 FY23-24 net sales and PAT?",
+    "answer": "\u20b9366,975m; \u20b938,778m.",
+    "context": "Net sales \u20b9366,975m; PAT \u20b938,778m."
+  },
+  {
+    "question": "How did Q4 FY23-24 operating margin move vs Q3 and why?",
+    "answer": "10.8% vs 9.9%; leverage + lower discounts.",
+    "context": "Operating margin rose to 10.8% from 9.9% due to leverage and lower discounts."
+  },
+  {
+    "question": "What discounts were in Q3 vs Q4 FY23-24?",
+    "answer": "\u20b923,300 vs \u20b914,500.",
+    "context": "Discounts fell from \u20b923,300 to \u20b914,500."
+  },
+  {
+    "question": "What FY23-24 overall growth and domestic/export volumes?",
+    "answer": "8.6% growth; 1,852,256 domestic; 283,067 exports.",
+    "context": "FY23-24: 8.6% growth; 1,852,256 domestic; 283,067 exports."
+  },
+  {
+    "question": "What FY23-24 net sales and growth?",
+    "answer": "\u20b91,349,378m; 19.9% growth.",
+    "context": "Net sales \u20b91,349,378m, +19.9% YoY."
+  },
+  {
+    "question": "What were Q2 FY23-24 total and export volumes?",
+    "answer": "552,055 total; 69,324 exports.",
+    "context": "Q2 FY23-24: 552,055 total; 69,324 exports."
+  },
+  {
+    "question": "What were Q2 FY23-24 net sales and ASP growth?",
+    "answer": "\u20b9355,351m; ASP +~15%.",
+    "context": "Net sales \u20b9355,351m; ASP up ~15% YoY."
+  },
+  {
+    "question": "What was the pending order book at end-Q2 FY23-24 and on call date?",
+    "answer": "~288k and ~250k.",
+    "context": "Pending orders ~288k end-Q2; ~250k on call day."
+  },
+  {
+    "question": "What per-vehicle discounts in Q2 vs Q1 FY23-24?",
+    "answer": "\u20b917,692 vs \u20b916,214.",
+    "context": "Per-vehicle discounts: \u20b917,692 (Q2) vs \u20b916,214 (Q1)."
+  },
+  {
+    "question": "What festive season growth vs full-year industry growth in 2023?",
+    "answer": "~18% vs ~5%.",
+    "context": "Festive season ~18% vs ~5% full-year."
+  },
+  {
+    "question": "How much market share gain and SUV share in Q2 FY23-24?",
+    "answer": "+120 bps; ~23% SUV share.",
+    "context": "Market share +120 bps; SUV share ~23%."
+  },
+  {
+    "question": "What capex guide for FY23-24 for MSIL only?",
+    "answer": "Above \u20b98,000 crore.",
+    "context": "Capex above \u20b98,000 crore for FY23-24."
+  },
+  {
+    "question": "What export volume growth in Q2 FY23-24 and where was Jimny 5-door exported?",
+    "answer": "9.7%; Latin America, Middle East, Africa.",
+    "context": "Exports grew 9.7%; Jimny 5-door to LATAM, ME, Africa."
+  },
+  {
+    "question": "What export target for 2030-31 did MSIL set?",
+    "answer": "750k\u2013800k units.",
+    "context": "Export target 750\u2013800k units/year by 2030-31."
+  },
+  {
+    "question": "How did small car share and first-time buyer share change?",
+    "answer": "34% to 28%; -10ppt first-time buyers.",
+    "context": "Small car share fell to 28%; first-time buyers down ~10ppt."
+  },
+  {
+    "question": "What flexibility benefit was expected from SMG integration?",
+    "answer": "Greater agility to meet demand shift.",
+    "context": "SMG integration to enhance flexibility and agility."
+  },
+  {
+    "question": "What was the retail vs wholesale strategy at year-end per Jan 2024 call?",
+    "answer": "Minimize stock in Q3; rebuild in Q4.",
+    "context": "Retail > wholesale in Q3; rebuild stock in Q4."
+  },
+  {
+    "question": "What price hike did MSIL announce around Q4 FY23-24?",
+    "answer": "~0.45%.",
+    "context": "Price increase of about 0.45% announced."
+  },
+  {
+    "question": "What Manesar capacity addition by March 2024?",
+    "answer": "~100,000 units.",
+    "context": "Manesar to add ~100k capacity by March 2024."
+  },
+  {
+    "question": "When was Kharkhoda 250k line expected and ramp-up note?",
+    "answer": "2025; ramp-up not full day one.",
+    "context": "Kharkhoda 250k line in 2025, not full capacity day one."
+  },
+  {
+    "question": "What overall CNG penetration and key model CNG shares were cited?",
+    "answer": "30.8% overall; Ertiga 57%, WagonR 50%, Dzire 44%.",
+    "context": "CNG penetration 30.8%; Ertiga 57%, WagonR 50%, Dzire 44%."
+  },
+  {
+    "question": "How did MSIL describe EV customer profile and first EV specs?",
+    "answer": "Higher segment, home charging; ~550km range, 60kWh.",
+    "context": "EV customer higher segment; EV SUV ~550 km, 60 kWh."
+  },
+  {
+    "question": "What interest income at PAT did SMG earn mentioned in Jan 2025?",
+    "answer": "\u20b957 crore.",
+    "context": "SMG earned \u20b957 crore interest income at PAT level."
+  },
+  {
+    "question": "How many EV-enabled workshops and cities were planned?",
+    "answer": "1,500 workshops; over 1,000 cities.",
+    "context": "1,500 EV-ready workshops in 1,000+ cities."
+  },
+  {
+    "question": "What intra-city charger density was planned under e for me?",
+    "answer": "Every 5\u201310 km in top 100 cities.",
+    "context": "Charging point every 5\u201310 km in top 100 cities."
+  },
+  {
+    "question": "How many countries will e Vitara be exported to and who manufactures it?",
+    "answer": "About 100 countries; MSIL exclusive manufacturer.",
+    "context": "e Vitara to be exported to ~100 countries; MSIL exclusive manufacturer."
+  },
+  {
+    "question": "What was the five-year PV industry CAGR cited?",
+    "answer": "~4%.",
+    "context": "Five-year PV CAGR ~4%."
+  },
+  {
+    "question": "What dealer inventory level was called comfortable in Oct 2023?",
+    "answer": "Slightly above one month.",
+    "context": "Inventory slightly above one month was comfortable."
+  },
+  {
+    "question": "What were wholesales vs retails in Oct 2023 Q&A?",
+    "answer": "~467,000 vs ~432,450.",
+    "context": "Wholesales ~467k; retails ~432.45k."
+  },
+  {
+    "question": "What total capacity does MSIL aim by 2030-31?",
+    "answer": "~4 million units.",
+    "context": "Plan to reach ~4 million capacity by 2030-31."
+  },
+  {
+    "question": "What Gujarat plant capacity and investment was proposed?",
+    "answer": "1 million units; \u20b935,000 crore.",
+    "context": "Gujarat new plant to reach 1 million units; \u20b935,000 crore investment."
+  },
+  {
+    "question": "What 9M FY23-24 sales and growth did MSIL report?",
+    "answer": "1,552,292; 6.9% growth.",
+    "context": "9M FY23-24 sales 1,552,292; +6.9% YoY."
+  },
+  {
+    "question": "What net sales growth and revenue milestone in 9M FY23-24?",
+    "answer": "22.3% growth; >\u20b91 lakh crore in 9M.",
+    "context": "Net sales grew 22.3% to cross \u20b91 lakh crore in 9M."
+  },
+  {
+    "question": "What ASP change in Q3 FY23-24 and reason for net sales outpacing volumes?",
+    "answer": "+6%; higher UV mix.",
+    "context": "ASP +6%; net sales grew faster due to UV mix."
+  },
+  {
+    "question": "What export growth target in FY\u201926 was stated?",
+    "answer": "At least 20%.",
+    "context": "Aim to grow exports by at least 20% in FY\u201926."
+  },
+  {
+    "question": "What export share in Q4 FY\u201925 did MSIL report?",
+    "answer": "48.4%.",
+    "context": "MSIL held 48.4% share of India\u2019s PV exports in Q4 FY\u201925."
+  },
+  {
+    "question": "What rural vs urban demand comment in FY\u201925 was made?",
+    "answer": "Rural outperformed urban.",
+    "context": "Rural markets performed better."
+  },
+  {
+    "question": "What did MSIL say about retail share changes in FY\u201925?",
+    "answer": "Marginal gain in retail market share.",
+    "context": "Retail sales grew faster than industry, marginal share gain."
+  },
+  {
+    "question": "What initiative to honor Osamu Suzuki was proposed?",
+    "answer": "Osamu Suzuki Center of Excellence in Gujarat & Haryana.",
+    "context": "Proposed Osamu Suzuki COE in Gujarat and Haryana."
+  },
+  {
+    "question": "Which model hit 3 million production in Dec 2024?",
+    "answer": "Dzire.",
+    "context": "Dzire reached 3 million production in Dec 2024."
+  },
+  {
+    "question": "What safety rating and features did the new Dzire have?",
+    "answer": "5-star; sunroof, 360 camera, 6 airbags standard.",
+    "context": "New Dzire 5-star safety, sunroof, 360 camera, 6 airbags."
+  },
+  {
+    "question": "How many NEXA outlets and customers by Oct 2024?",
+    "answer": "500 outlets; 2.7 million customers.",
+    "context": "500 NEXA outlets; 2.7m customers."
+  },
+  {
+    "question": "What cumulative rail dispatch and fuel savings were reported in Oct 2024?",
+    "answer": "2 million dispatches; 270 million liters saved.",
+    "context": "2m rail dispatches; 270m liters fuel saved/avoided."
+  },
+  {
+    "question": "Which SUV hit 2 lakh sales in 17.3 months?",
+    "answer": "FRONX.",
+    "context": "FRONX reached 2 lakh sales in 17.3 months."
+  },
+  {
+    "question": "Which models lead exports historically?",
+    "answer": "Baleno, Dzire, S-Presso.",
+    "context": "Top three export models: Baleno, Dzire, S-Presso."
+  },
+  {
+    "question": "What were hybrid and EV shares in Q3 FY23-24?",
+    "answer": "~2% each.",
+    "context": "Hybrid ~2%; EV ~2%."
+  },
+  {
+    "question": "What was the Q3 vs Q4 stock/discounting strategy per Jan 2024?",
+    "answer": "Q3 reduces stock; Q4 rebuilds; discounts optimized.",
+    "context": "Q3 retail>wholesale; Q4 rebuild stock, optimal discounting."
+  },
+  {
+    "question": "What was MSIL\u2019s view on CAFE 3 readiness?",
+    "answer": "Waiting for norms; can flex across technologies.",
+    "context": "CAF\u00c9 3 norms awaited; MSIL can flex mix."
+  },
+  {
+    "question": "What five-year PV CAGR figure did MSIL deem low for India?",
+    "answer": "~4%.",
+    "context": "CAGR ~4% over five years, low for India."
+  },
+  {
+    "question": "What growth aim did MSIL state for FY\u201926 vs industry?",
+    "answer": "Grow faster than industry (~4.3m vehicles).",
+    "context": "Intends to grow faster than industry; industry ~4.3m."
+  },
+  {
+    "question": "What was said about semiconductor supply and next bottleneck in Jan 2024?",
+    "answer": "Semis resolved; capacity could bottleneck.",
+    "context": "Semiconductor issue resolved; capacity may bottleneck."
+  },
+  {
+    "question": "What rail dispatch penetration and first in-plant siding fact were in FY23-24?",
+    "answer": "21.5% penetration; first in-plant siding at Gujarat.",
+    "context": "Rail penetration 21.5%; first in-plant railway siding at Gujarat plant."
+  },
+  {
+    "question": "What is Maruti Suzuki 3.0\u2019s production target by FY2030-31?",
+    "answer": "4 million vehicles a year.",
+    "context": "Maruti Suzuki 3.0 aims at 4 million vehicles by FY2030-31."
+  },
+  {
+    "question": "How many models by decade end?",
+    "answer": "28.",
+    "context": "Plan to reach 28 models by the decade end."
+  },
+  {
+    "question": "Which technologies will co-exist with EVs per MSIL?",
+    "answer": "Hybrids, CNG, Ethanol, etc.",
+    "context": "EVs, Hybrids, CNG, Ethanol will co-exist."
+  }
+]

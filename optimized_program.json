@@ -1,0 +1,62 @@
+{
+  "respond.predict": {
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "context": [
+          "Manesar to add ~100k capacity by March 2024.",
+          "Kharkhoda Phase-I began in March 2025 with 250,000 units capacity.",
+          "Plan to reach ~4 million capacity by 2030-31.",
+          "Planning to increase solar capacity to over 48 MWp.",
+          "Dzire reached 3 million production in Dec 2024."
+        ],
+        "question": "What Manesar capacity addition by March 2024?",
+        "reasoning": "The context mentions that Manesar is adding ~100k capacity by March 2024.",
+        "response": "~100,000 units."
+      },
+      {
+        "question": "What share did SUVs account for in the Indian PV industry in FY’25?",
+        "response": "About 55%."
+      },
+      {
+        "question": "What festive season growth vs full-year industry growth in 2023?",
+        "response": "~18% vs ~5%."
+      },
+      {
+        "question": "What ASP change in Q3 FY23-24 and reason for net sales outpacing volumes?",
+        "response": "+6%; higher UV mix."
+      }
+    ],
+    "signature": {
+      "instructions": "Given a context and question about Maruti Suzuki's financial data or product launches, use natural language processing techniques to extract relevant information from the context and generate a response that answers the question.",
+      "fields": [
+        {
+          "prefix": "Context:",
+          "description": "${context}"
+        },
+        {
+          "prefix": "Question:",
+          "description": "${question}"
+        },
+        {
+          "prefix": "Reasoning: Let's think step by step in order to",
+          "description": "${reasoning}"
+        },
+        {
+          "prefix": "Response:",
+          "description": "${response}"
+        }
+      ]
+    },
+    "lm": null
+  },
+  "metadata": {
+    "dependency_versions": {
+      "python": "3.12",
+      "dspy": "2.6.27",
+      "cloudpickle": "3.1"
+    }
+  }
+}
