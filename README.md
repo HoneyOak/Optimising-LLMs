@@ -1,6 +1,12 @@
 # Optimizing LLMs
-we use dspy to optimize llm to better answer certain types of questions
-dspy does .. to improve llm performance
+This project shows the steps to optimise a Large Language Model (LLM) employing DSPy in order to better suit a specifc question-answering domain.
+dspy does:
+-Prompt omptimisation through MIPROv2
+-Retrieval-Augmented Generation (RAG) to provide answers based on context
+-Local embeddings to make retrieving documents efficent
+-Testing and evaulation on a specific dataset 
+to improve llm performance
+
 ## prompt optimization
 dspy optimization info
 and how it works - tests llms on questions
