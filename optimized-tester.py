@@ -4,7 +4,8 @@ import json
 import fitz  # PyMuPDF
 import dspy
 
-lm = dspy.LM('ollama_chat/llama3.2:latest', api_base='http://10.20.200.109:11434', api_key='')
+lm = dspy.LM('ollama_chat/llama3.2:latest', api_base='http://10.20.200.144:11434', api_key='')
+# lm = dspy.LM('ollama_chat/llama3.2:latest', api_base='http://127.0.0.1:11434')
 dspy.configure(lm=lm)
 
 # Load PDF and extract text
@@ -12,7 +13,7 @@ def extract_text_from_pdf(path):
     doc = fitz.open(path)
     return "\n".join(page.get_text() for page in doc)
 
-pdf_text = extract_text_from_pdf("data/HDFC April25.pdf") 
+pdf_text = extract_text_from_pdf("data/Suzuki Oct23.pdf") 
 
 # Chunk the text to use as documents
 def chunk_text(text, chunk_size=600):

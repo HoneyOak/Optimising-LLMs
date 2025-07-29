@@ -4,36 +4,13 @@ import os
 import glob
 import fitz  # PyMuPDF
 import dspy
-
-lm = dspy.LM('ollama_chat/llama3.2:latest', api_base='http://10.20.200.109:11434', api_key='')
+import random 
+lm = dspy.LM('ollama_chat/llama3.2:latest', api_base='http://10.20.200.144:11434', api_key='')
+# lm = dspy.LM('ollama_chat/llama3.2:latest', api_base='http://127.0.0.1:11434')
 dspy.configure(lm=lm)
 
-# Load PDF and extract text
-def extract_text_from_pdf(path):
-    doc = fitz.open(path)
-    return "\n".join(page.get_text() for page in doc)
 
-def chunk_text(text, chunk_size=600):
-    words = text.split()
-    return [" ".join(words[i:i+chunk_size]) for i in range(0, len(words), chunk_size)]
 
-corpus = []
-folder_path = "data"
-
-for pdf_file in glob.glob(os.path.join(folder_path, "*.pdf")):
-    filename = os.path.basename(pdf_file)
-    print(f"Processing {filename}...")
-    text = extract_text_from_pdf(pdf_file)
-    chunks = chunk_text(text)
-
-    for i, chunk in enumerate(chunks):
-        corpus.append({
-            "source": filename,
-            "chunk_index": i,
-            "text": chunk
-        })
-
-print(f"Loaded {len(corpus)} chunks from {len(glob.glob(os.path.join(folder_path, '*.pdf')))} PDFs.")
 
 from sentence_transformers import SentenceTransformer
 
@@ -42,9 +19,14 @@ model = SentenceTransformer("sentence-transformers/static-retrieval-mrl-en-v1", 
 
 embedder = dspy.Embedder(model.encode)
 
+with open('data/finance.json', 'r') as f:
+    corpus_data = json.load(f)
+
+# Extract the "context" field from each item in the corpus
+context_corpus = [doc["context"] for doc in corpus_data]
 search = dspy.retrievers.Embeddings(
     embedder=embedder,
-    corpus=[doc["text"] for doc in corpus],
+    corpus=context_corpus,
     k=5,  # top-k documents per query
     brute_force_threshold=30_000  # skip FAISS if corpus is small
 )
@@ -66,6 +48,8 @@ from datasets import load_dataset
 import dspy
 import litellm
 import ujson
+from dspy.teleprompt import BootstrapFewShotWithRandomSearch
+from dspy.teleprompt.ensemble import Ensemble
 # Enable LiteLLM parameter dropping
 litellm.drop_params = True
 
@@ -74,7 +58,7 @@ with open("data/finance.json", "r") as f:
 
 data = [
     dspy.Example(
-        question=ex["question"],  # renaming text → question
+        question=ex["question"],
         response=ex["answer"]
     ).with_inputs("question")
     for ex in raw_data
@@ -88,11 +72,14 @@ print(f"Training dataset prepared with {len(trainset)} examples.")
 from dspy.teleprompt import SIMBA
 from dspy.evaluate import SemanticF1
 
-# Optimize via BootstrapFinetune
-print("Optimizing the model using+ BootstrapFinetune...")
+# Optimize
+print("Optimizing the model using ...")
 dspy.settings.experimental = True
-optimizer = dspy.SIMBA(metric=SemanticF1(decompositional=True), num_threads=24, max_steps=4, num_candidates=4)
-optimized = optimizer.compile(rag, trainset=trainset)
+optimizer = dspy.MIPROv2(metric=SemanticF1(decompositional=True), prompt_model= lm, max_bootstrapped_demos=4, auto= "light", num_threads= 24, verbose= True)
+optimized = optimizer.compile(rag, trainset=trainset, requires_permission_to_run=False)
+
+
+
 print("Optimization completed successfully.")
 print("Optimized model:", optimized)
 
